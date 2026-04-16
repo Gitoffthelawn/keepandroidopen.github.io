@@ -86,7 +86,7 @@ impact_gov_p2: >-
 # Advanced flow
 flow_heading: "Googles \"Notausgang\" ist eine Falltür"
 flow_intro: >-
-  Google sagt, dass "Power-User" nicht überprüfte Apps <a href=\"https://android-developers.googleblog.com/2026/03/android-developer-verification.html\" target=\"_blank\">immer noch installieren</a> können.
+  Google sagt, dass "Power-User" nicht überprüfte Apps <a href="https://android-developers.googleblog.com/2026/03/android-developer-verification.html" target="_blank">immer noch installieren</a> können.
   Hier erläutern wir, was das <i>tatsächlich</i> bedeutet:
 flow_step1: "Öffne die Systemeinstellungen und suche nach den Entwickleroptionen."
 flow_step2: "Tippe <strong>sieben Mal</strong> auf die Build-Nummer, um den Entwicklermodus zu aktivieren."
